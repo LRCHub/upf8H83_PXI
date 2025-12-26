@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大・団・円",
+  "base_artist": "T-Pis with 健太",
+  "createdAt": "2025-12-26T01:32:52.272051Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大・団・円",
+      "artist": "T-Pis with 健太",
+      "has_synced": false,
+      "path": "select/pl_01_大・団・円_T-Pis_with_健太.txt"
+    }
+  ]
+}
